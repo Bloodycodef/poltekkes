@@ -1,4 +1,4 @@
-fetch("/api/api.json")
+fetch("api/api.json")
   .then((response) => response.json())
   .then((data) => {
     // Pasang logo

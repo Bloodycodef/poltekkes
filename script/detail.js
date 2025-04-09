@@ -1,7 +1,7 @@
 const urlParams = new URLSearchParams(window.location.search);
 const labId = urlParams.get("id");
 
-fetch("/api/detail.json")
+fetch("api/detail.json")
   .then((res) => res.json())
   .then((data) => {
     const lab = data.find((l) => l.id === labId);

@@ -1,0 +1,29 @@
+{
+  "logo": "https://example.com/logo-politeknik.png",
+  "labs": [
+    {
+      "nama": "Lab Kimia",
+      "deskripsi": "Fasilitas lengkap untuk analisis kimia, sintesis, dan riset eksperimental.",
+      "gambar": "https://example.com/lab-kimia.jpg",
+      "fitur": ["Spektrometer", "Fume Hood", "Kromatografi"]
+    },
+    {
+      "nama": "Lab Sitohistoteknologi",
+      "deskripsi": "Fasilitas untuk analisis jaringan dan sel dengan teknologi pewarnaan dan mikroskopi canggih.",
+      "gambar": "https://example.com/lab-sitohisto.jpg",
+      "fitur": ["Mikrotom", "Cryostat", "Pewarnaan HE"]
+    },
+    {
+      "nama": "Lab Hematologi",
+      "deskripsi": "Fasilitas modern untuk pemeriksaan darah dan penelitian terkait sistem peredaran darah.",
+      "gambar": "https://example.com/lab-hematologi.jpg",
+      "fitur": ["Mesin PCR", "Centrifuge", "Hematology Analyzer"]
+    },
+    {
+      "nama": "Lab Imunologi",
+      "deskripsi": "Fasilitas untuk riset sistem imun, termasuk ELISA dan teknik imunofluoresensi.",
+      "gambar": "https://example.com/lab-imunologi.jpg",
+      "fitur": ["ELISA Reader", "Laminar Air Flow", "Incubator CO2"]
+    }
+  ]
+}
